@@ -1,0 +1,15 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "it's a test bro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bo peng",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "help": "^3.0.2"
+  }
+}
